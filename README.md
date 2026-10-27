@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gotenberg is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gotenberg.dev/
+Gotenberg provides a Docker-based API for converting documents to PDF and other formats. It offers a simple HTTP interface where users can POST files like HTML, Markdown, or Office documents and receive a generated PDF. The service runs as a container, making it easy to self‑host, and supports features such as merging PDFs, adding headers/footers, and applying custom CSS. Documentation, examples, and a quick‑start guide are available on its website.
+
+**Areas:** PDF · Docker · API · Conversion · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gotenberg.dev/)
+- [Documentation](https://gotenberg.dev/docs)
+- [Getting started](https://gotenberg.dev/docs/getting-started/introduction)
+- [Changelog](https://github.com/gotenberg/gotenberg/releases/tag/v8.0.0)
+- [Blog](https://gotenberg.dev/blog)
+- [GitHub](https://github.com/gotenberg)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gotenberg/](https://apis.io/providers/gotenberg/).
